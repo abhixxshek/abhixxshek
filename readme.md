@@ -14,10 +14,6 @@
 
 <br>
 
-check out my latest app: [Supercharge](https://sindresorhus.com/supercharge) ![](hot.gif)
-
-and my [latest blog post](https://sindresorhus.com/blog) ![](hot.gif)
-
 <br>
 <br>
 
