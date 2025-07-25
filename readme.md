@@ -4,7 +4,7 @@
 	<br>
 </div>
 
-**I LOVE CODE TO**&nbsp;&nbsp;![](cat-typing.gif)&nbsp;
+**I LOVE TO CODE**&nbsp;&nbsp;![](cat-typing.gif)&nbsp;
 
 
 <br>
