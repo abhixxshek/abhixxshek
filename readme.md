@@ -1,8 +1,3 @@
-**I LOVE TO CODE**&nbsp;&nbsp;![](cat-typing.gif)&nbsp;
-<br>
-
-![](under-construction.gif)
-
 <!--🐍💬SNAKETITLE / 🌐WEBSITE: https://textanim.com/ -->
 <p align="center">
 <img src="https://i.imgur.com/x1KbuCq.gif" width="500">
@@ -23,6 +18,3 @@
 
 <br>
 <br>
-
-
-![](flames.gif)
